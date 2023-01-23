@@ -1,4 +1,4 @@
-<h1>Technical Navigation Pafe</h1>
+<h1>Technical Navigation Page</h1>
 
 <h2>Description</h2>
 This project is a information page made during the freeCodeCamp web development course.
